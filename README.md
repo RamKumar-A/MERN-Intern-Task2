@@ -1,5 +1,7 @@
 # 🎬 Movie Explorer App
 
+## Live Demo : [Click Here](https://merntask2.netlify.app/)
+
 A React.js movie explorer app** that allows users to search, filter, and explore movie details using the [OMDb API](http://www.omdbapi.com/).  
 The app is built with Context API for global state management, Tailwind CSS for styling, and React Router DOM for routing.
 
@@ -40,3 +42,4 @@ Type a movie title in the search bar (minimum 3 characters).
 Apply filters for year or type if needed.
 
 Click on a movie card to view details.
+
